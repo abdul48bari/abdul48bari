@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abdul48bari
-- 👀 I’m interested in web-based developing and data science
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in web-based developing
+- 🌱 I’m currently learning Three.js + WebGL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Email - umarabdulbari780@gmail.com
 
 <!---
 abdul48bari/abdul48bari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
